@@ -30,8 +30,6 @@ Wardens submit issues without seeing each other's submissions, so keep in mind t
 
 ### QA reports
 
-Any warden submissions in the QA category are submitted as bulk listings of issues and recommendations:
-
 - **[QA reports](https://docs.code4rena.com/awarding/judging-criteria#qa-reports-low-non-critical)** include *all* low severity and non-critical findings from an individual warden.
 </details>
 <hr>
